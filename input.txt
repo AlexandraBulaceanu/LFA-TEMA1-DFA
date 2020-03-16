@@ -1,0 +1,15 @@
+5 9
+a b c # 1
+d 3 4 f 6
+a
+a b 3
+b # 6
+# # d
+b c d
+# c f
+c a 4
+c b 3
+1 a 6
+c a d
+a b
+36
